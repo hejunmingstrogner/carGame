@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a80e080d-620d-4cee-9d0d-11287bfde1b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Orange car": {
+      "ver": "1.0.3",
+      "uuid": "9a5859da-6925-41ea-a103-afc356fef66f",
+      "rawTextureUuid": "a80e080d-620d-4cee-9d0d-11287bfde1b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 57,
+      "height": 99,
+      "rawWidth": 57,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

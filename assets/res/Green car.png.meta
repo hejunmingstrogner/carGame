@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b593ab21-9e22-45b1-a7e2-9d711c8ade12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Green car": {
+      "ver": "1.0.3",
+      "uuid": "855e55ef-623c-45f1-9983-ae5f7cc8912d",
+      "rawTextureUuid": "b593ab21-9e22-45b1-a7e2-9d711c8ade12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 113,
+      "rawWidth": 64,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

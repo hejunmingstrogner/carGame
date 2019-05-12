@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "070a7cb5-4c38-4df7-b57f-9b183ed421b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Yellow car": {
+      "ver": "1.0.3",
+      "uuid": "b378fa18-0ce4-406d-bfb7-36d9021dd1fd",
+      "rawTextureUuid": "070a7cb5-4c38-4df7-b57f-9b183ed421b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 104,
+      "rawWidth": 60,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

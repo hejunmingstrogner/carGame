@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "94fb72b9-883e-4326-af8e-539cd3a6e45d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "red car": {
+      "ver": "1.0.3",
+      "uuid": "e34c84d8-bfa5-43f7-a52c-b235cb9d7ec7",
+      "rawTextureUuid": "94fb72b9-883e-4326-af8e-539cd3a6e45d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 48,
+      "height": 105,
+      "rawWidth": 48,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
